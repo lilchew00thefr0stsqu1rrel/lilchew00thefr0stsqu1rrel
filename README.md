@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 Bush babies possess anal scent glands.
 
-![Linnea is a Snowland Fae](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg)[Bush baby]
+![Linnea is a Snowland Fae](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg)["Bush baby"]
