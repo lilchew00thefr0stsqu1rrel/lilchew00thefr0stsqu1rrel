@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Bush baby](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg)
