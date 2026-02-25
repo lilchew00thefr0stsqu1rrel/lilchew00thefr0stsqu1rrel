@@ -27,5 +27,5 @@ Bush babies possess anal scent glands.
 
 Я сделал (за ~1 час) прототип меша, поддерживающего движение тазом (до этого я несколько изменил стандартный меш кошки. Почему кошки? Потому что тряска задом у котов имеет особый статус - они так метят территорию. Это же наблюдается и у выдр), чтобы на его основе сделать меши зверей, которые тверкают, пока какают (выдра, соболь, галаго, лемур и т. д.)
 
-![Jennifer Lopez beast]([https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png) "Прототип куклы имени Шакиры")
+![Jennifer Lopez beast]((https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png) "Прототип куклы имени Шакиры")
 
