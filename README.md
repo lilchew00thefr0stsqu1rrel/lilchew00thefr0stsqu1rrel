@@ -30,4 +30,4 @@ Bush babies possess anal scent glands.
 ![Jennifer Lopez beast1](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png "Прототип куклы имени Шакиры")
 
 
-![Jennifer Lopez beast2] (https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png "Вид сверху")
+![Jennifer Lopez beast2](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png "Вид сверху")
