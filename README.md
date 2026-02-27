@@ -42,3 +42,6 @@ Bush babies possess anal scent glands.
 
 ![галажка в бассейне](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53135)_Бассейн.png "галаго")
 
+
+![выдра в бассейне](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53135)_Бассейн.png "Выдре нельзя ванну")
+
