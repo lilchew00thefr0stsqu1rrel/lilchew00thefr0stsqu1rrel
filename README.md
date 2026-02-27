@@ -36,3 +36,9 @@ Bush babies possess anal scent glands.
 ### Экс-амрита и азотит
 
 ![Аранары](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Эмилия%20Снимок%20экрана%20(53718).png "Центральные земли")
+
+#### 13 II 2026
+Система купания
+
+![галажка в бассейне](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53135)_Бассейн.png "галаго")
+
