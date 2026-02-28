@@ -71,3 +71,7 @@ Bush babies possess anal scent glands.
 
 
 ![Иссушитель](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Не для Sciurocheirus alleni")
+
+
+![Пустота](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png "Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Gentianose Real Dolls")
+
