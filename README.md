@@ -86,3 +86,13 @@ Bush babies possess anal scent glands.
 ![Квадробика - это прежде всего знание теории графов и топологии](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53650)_Я_не_Квадробер.png "Квадробика - это прежде всего знание теории графов и топологии")
 
 Квадробика - это прежде всего знание теории графов и топологии. Не понимая, чем различаются диагональный, латеральный галоп и полупядь, ты запросто из собаки/краснолобого лемура/песца получишь зайца или шиншиллу
+
+
+![](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png"")
+![]("https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png")
+![](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png"")
+![](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/мезомер.png"")
+![](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углер.png"")
+![](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углерод.png"")
+![](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/уголь.png"")
+
