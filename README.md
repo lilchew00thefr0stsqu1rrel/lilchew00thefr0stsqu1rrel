@@ -91,8 +91,8 @@ Bush babies possess anal scent glands.
 ![Математика1](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png
 "Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 ![Математика2](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png "Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
-![Математика3](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png"
-Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
+![Математика3](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png
+"Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 ![Математика4](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/мезомер.png 
 "Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 ![Аллюры1](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углер.png
