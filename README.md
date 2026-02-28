@@ -45,3 +45,13 @@ Bush babies possess anal scent glands.
 
 ![выдра в бассейне](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53150)_Бассейн.png "Выдре нельзя ванну")
 
+
+### 28 II 2026
+### Внедрение MonoCache для оптимизации обновления такта (кадра)
+
+![без using](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Code%20C%23/Снимок%20экрана%20(53905).png          " до  ")
+
+![using](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53906).png          " using  ")
+
+![Run()   ](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53908).png        " после   ")
+
