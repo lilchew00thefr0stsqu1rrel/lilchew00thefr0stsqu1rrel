@@ -81,3 +81,7 @@ Bush babies possess anal scent glands.
 
 ![Пустота](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png "Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Gentianose Real Dolls")
 
+#### Квадробика - грех? Квадробика - NaHCO3-В/А-ия? Квадроберы - служители нечистой силы?
+
+![Квадробика - это прежде всего знание теории графов и топологии](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53650)_Я_не_Квадробер.png "Квадробика - это прежде всего знание теории графов и топологии")
+
