@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Tortuga Team and miHoYo
 
+- ⚡ Fun fact: I'm the origin and pivot of all being. But this is not that I proclaim myself as God. God is Infinity and I'm null/zero/oh. 
 Bush babies possess anal scent glands.
 
 ![Linnea is a Snowland Fae](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg "Bush baby")
