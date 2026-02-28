@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ![Иссушитель](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Щачло-лук")
 
 
-![Иссушитель](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Не для Sciurocheirus alleni")
+![Иссушитель](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Не для галаго Аллена")
 
 #### Выдра падает в пустоту. Чаще всего я этот баг ловлю на выдре, так как она большая (8 кг), в то время как галаго Аллена - 290 г, а серый лемур - 930 г
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 Референс домиков - игра Маленький Зоомагазин от Гамалеофт.
 В свою очередь их интерьер напоминает интерьер в "Моём Томе" и "Моей Анджеле".
 
-![Пустота](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png "Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Gentianose Real Dolls")
+![Пустота](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png "Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Генцианоза: Настоящие куклы")
 
 #### Квадробика - грех? Квадробика - NaHCO3-В/А-ия? Квадроберы - служители нечистой силы?
 
