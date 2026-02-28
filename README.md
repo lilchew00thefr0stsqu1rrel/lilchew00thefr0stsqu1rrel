@@ -65,4 +65,6 @@ Bush babies possess anal scent glands.
 #### Кукусики? Кто это? Лепилемур!
 ![Лепилемур](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png  "Фосфолипид между тем, кого воспитала улица, и всеми остальными" )
 
+Думал дать Линнелажке лук, но пусть галаго будет с Бесструнным (лучшая замена сигны галажки)
+
 ![Иссушитель](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Щачло-лук")
