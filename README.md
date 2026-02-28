@@ -72,6 +72,12 @@ Bush babies possess anal scent glands.
 
 ![Иссушитель](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Не для Sciurocheirus alleni")
 
+#### Выдра падает в пустоту. Чаще всего я этот баг ловлю на выдре, так как она большая (8 кг), в то время как галаго Аллена - 290 г, а серый лемур - 930 г
+
+По определению весь мир уровня "Habitat_Kukly_1" - это домик
+Как и "Кошкин хвост", и "Гримёрка" театра Воображариум, и Бани "Аиса"
+Референс домиков - игра Littlest Pet Shop от Gameloft.
+В свою очередь их интерьер напоминает интерьер в "Моём Томе" и "Моей Анджеле".
 
 ![Пустота](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png "Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Gentianose Real Dolls")
 
