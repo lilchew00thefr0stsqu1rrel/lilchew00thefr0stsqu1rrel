@@ -68,3 +68,6 @@ Bush babies possess anal scent glands.
 Думал дать Линнелажке лук, но пусть галаго будет с Бесструнным (лучшая замена сигны галажки)
 
 ![Иссушитель](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Щачло-лук")
+
+
+![Иссушитель](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Не для Sciurocheirus alleni")
