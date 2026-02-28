@@ -55,3 +55,5 @@ Bush babies possess anal scent glands.
 
 ![Run()   ](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53908).png        " после   ")
 
+#### Кукусики? Кто это? Лепилемур!
+![Лепилемур] (https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png  "Фосфолипид между тем, кого воспитала улица, и всеми остальными" )
