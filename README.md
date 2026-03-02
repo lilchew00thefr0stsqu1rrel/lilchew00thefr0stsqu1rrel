@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 # Обезьяна (мармозетка Гёльди) сворачивается калачиком
  Сворачивание калачиком вполне под стать Уделу Благодатных Земель, так как борьба включает его
- DanRi (тульпа) - мармозетка Гёльди - коп из Сан-Арлекиноса 
+ DanRi (тульпа) - мармозетка Гёльди - коп из Сан-Арлекиноса
+
+ 
  ![Нск_Урубамба](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg "Куклокоп")
 
 
