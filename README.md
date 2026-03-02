@@ -39,7 +39,19 @@ Here are some ideas to get you started:
 
 ![Линнея - галажка](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg "Галаго")
 
+# Портфолио
+* [О выдрах и лемурах]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls )
 
+* [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing)
+* [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense)
+* [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter)
+* [Музыкальный лейбл (ASP .NET & 1С)](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system)
+
+
+
+
+
+# Летопись меня в программировании, играх и музыке
 25 II 2026
 
 Я сделал (за ~1 час) прототип меша, поддерживающего движение тазом (до этого я несколько изменил стандартный меш кошки. Почему кошки? Потому что тряска задом у котов имеет особый статус - они так метят территорию. Это же наблюдается и у выдр), чтобы на его основе сделать меши зверей, которые тверкают, пока какают (выдра, соболь, галаго, лемур и т. д.)
