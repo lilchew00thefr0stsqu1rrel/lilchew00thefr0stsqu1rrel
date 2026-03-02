@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 # Портфолио
-* [О выдрах и лемурах]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls ) 🦦 (Величайшее творение)
+* [О выдрах и лемурах]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls ) 🦦 (Величайший шедевр из своих)
 ----
 * [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing) 🏎
 * [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense) 🌇
