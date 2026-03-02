@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  
  ![Нск_Урубамба](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg "Куклокоп")
 
-
+Фото из Новосибирского зоопарка.
   
 
 
