@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing) 🏎
 * [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense) 🌇
 * [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter) 🚀
-* [Проект - система из ASP .NET и 1С:Предприятие (1С-.NET:Музыкальный лейбл)](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
+* [Проект - система из ASP .NET и 1С:Предприятие (предметная область - музыкальный лейбл)](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
 
 
 # Увлечения
