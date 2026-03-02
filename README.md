@@ -26,7 +26,20 @@ Here are some ideas to get you started:
 - ⚡ Интересный факт: Я начало координат этого мира. Но это не означает, что я Бог. Я это ноль, Бог - это Бесконечность. Между мной и Богом отличие как между правой и Верхней частями ветви гиперболы
 - 😄 Местоимения: он / (н)его
 
-# Обезьяна (мармозетка Гёльди) сворачивается калачиком
+
+# Портфолио
+* [О выдрах и лемурах]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls )
+
+* [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing)
+* [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense)
+* [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter)
+* [Музыкальный лейбл (ASP .NET & 1С)](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system)
+
+
+# Увлечения
+## Животные
+
+**Обезьяна (мармозетка Гёльди) сворачивается калачиком**
  Сворачивание калачиком вполне под стать Уделу Благодатных Земель, так как борьба включает его
  DanRi (тульпа) - мармозетка Гёльди - коп из Сан-Арлекиноса
 
@@ -38,16 +51,6 @@ Here are some ideas to get you started:
 У галаго есть фунька.
 
 ![Линнея - галажка](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg "Галаго")
-
-# Портфолио
-* [О выдрах и лемурах]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls )
-
-* [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing)
-* [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense)
-* [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter)
-* [Музыкальный лейбл (ASP .NET & 1С)](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system)
-
-
 
 
 
