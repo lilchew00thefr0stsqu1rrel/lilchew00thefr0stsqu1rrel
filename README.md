@@ -37,7 +37,11 @@ Here are some ideas to get you started:
 
 
 # Увлечения
-## Животные
+## Животные и компьютерные игры 
+
+У галаго есть фунька.
+
+![Линнея - галажка](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg "Галаго")
 
 **Обезьяна (мармозетка Гёльди) сворачивается калачиком**
  Сворачивание калачиком вполне под стать Уделу Благодатных Земель, так как борьба включает его
@@ -48,9 +52,6 @@ Here are some ideas to get you started:
 
 
   
-У галаго есть фунька.
-
-![Линнея - галажка](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/SciurocheirusAlleni.jpg "Галаго")
 
 
 
