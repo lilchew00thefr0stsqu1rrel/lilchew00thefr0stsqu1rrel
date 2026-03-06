@@ -160,6 +160,9 @@ Here are some ideas to get you started:
 3. Моей официальной куклой является лемур Карликовый лемур Кроссли (Тот, кто впадает в спячку в норах).
 4. Песнями по умолчанию считаются Ванька, Куклы растут, Койтар (с озера Амсвартнир), Васса Железнова - Освенцим, DanRi - Твоё имя
 
+
+   
+
 ##### Завеивание - это определение явлений, привязанных ко мне, а не к ситуации.
 
 ![Аллюры3](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/уголь.png
@@ -169,3 +172,13 @@ Here are some ideas to get you started:
 ![Аллюры2](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углерод.png
 "Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 
+
+
+7 III 2026
+
+Замена модели лемура на ту, где проще сделать "виляние задом"
+
+![галоп](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Кентер%20лемура.gif 
+"Кентер-галоп лемура")
+
+![wiggle](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Когда%20в%20тверк%20и%20пацан%20может.gif "Имитация метки территории")
