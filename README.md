@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 #### Анонс галарвя 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png" width="880" height="495" alt="Камерунская крыса" title="У Луми агбе, у Линнеи галаговые уши">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png" width="800" height="450" alt="Камерунская крыса" title="У Луми агбе, у Линнеи галаговые уши">
 
 
 
@@ -104,7 +104,7 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 
 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Выдра%20плавает.gif" width="720" height="405" alt="выдра" title="Пюси выдра">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Выдра%20плавает.gif" width="800" height="450" alt="выдра" title="Пюси выдра">
 
 
 # Летопись меня в программировании, играх и музыке
@@ -143,11 +143,11 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 #### Кукусики? Кто это? Лепилемур!
 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png" width="720" height="405" alt="Лепилемур" title="Фосфолипид между тем, кого воспитала улица, и всеми остальными">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png" width="800" height="450" alt="Лепилемур" title="Фосфолипид между тем, кого воспитала улица, и всеми остальными">
 
 Думал дать Линнелажке лук, но пусть галаго будет с Бесструнным (лучшая замена сигны галажки из 4-звёздочного оружия)
 
-<img src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png" width="720" height="405" alt="Иссушитель " title="Не для галаго Аллена ">
+<img src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png" width="640" height="360" alt="Иссушитель " title="Не для галаго Аллена ">
 
 
 #### Выдра падает в пустоту. Чаще всего я этот баг ловлю на выдре, так как она большая (8 кг), в то время как галаго Аллена - 290 г, а серый лемур - 930 г
@@ -159,7 +159,7 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 В свою очередь их интерьер напоминает интерьер в "Моём Томе" и "Моей Анджеле".
 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png" width="720" height="405" alt="Пустота" title="Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Генцианоза: Настоящие куклы">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Снимок%20экрана%20(53675)пустота.png" width="640" height="360" alt="Пустота" title="Падение в пустоту не должно существовать в играх с конечным миром, в том числе и Генцианоза: Настоящие куклы">
 
 
 #### Квадробика - грех? Квадробика - NaHCO3-В/А-ия? Квадроберы - служители нечистой силы?
