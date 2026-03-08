@@ -139,12 +139,10 @@ Here are some ideas to get you started:
 
 Думал дать Линнелажке лук, но пусть галаго будет с Бесструнным (лучшая замена сигны галажки из 4-звёздочного оружия)
 
-![Иссушитель](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Щачло-лук")
-
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/" width="720" height="405" alt="Иссушитель" title="Щачло-лук ">
 
 <img src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png" width="720" height="405" alt="Иссушитель " title="Не для галаго Аллена ">
 
-![Иссушитель](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53779)%20щачло.png "Не для галаго Аллена")
 
 #### Выдра падает в пустоту. Чаще всего я этот баг ловлю на выдре, так как она большая (8 кг), в то время как галаго Аллена - 290 г, а серый лемур - 930 г
 
