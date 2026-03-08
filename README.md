@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 
 В отличие от циветты, у морской свинки анальная железа интегрирована в перинеальную железу. 
 
+
+#### Анонс галарвя 
+![Камерунская крыса](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png  "У Луми агбе, у Линнеи галаговые уши")
 ----
 
 ### Мармозетка
