@@ -101,9 +101,10 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 
 
   
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Выдра%20плавает.gif" width="720" height="405" alt="выдра" title="Пюси выдра")>
 
 
+
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Выдра%20плавает.gif" width="720" height="405" alt="выдра" title="Пюси выдра">
 
 
 # Летопись меня в программировании, играх и музыке
