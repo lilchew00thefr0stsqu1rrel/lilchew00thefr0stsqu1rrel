@@ -86,7 +86,7 @@ Here are some ideas to get you started:
  
  Я придумал себе тульпу мармозетки Гёльди на основе певца DanRi (кыргыза). Данный персонаж является животной версией Хэйдзо или Ванпанчменом мира Цифры. 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg" width="480" height="640" alt="Нск_Урубамба" title="Куклокоп">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg" width="420" height="600" alt="Нск_Урубамба" title="Куклокоп">
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg" 
