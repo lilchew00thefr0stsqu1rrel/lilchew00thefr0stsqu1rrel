@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![]("")
 
-<img src="" width="640" height="360" alt="" title="">
+<img alt="" src="" width="640" height="360"  title="">
 
 -->
 
@@ -121,6 +121,10 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 
 ### 27 II 2026
 ### Бывшая амрита и азотит
+
+
+<img alt="Аранары" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Эмилия%20Снимок%20экрана%20(53718).png" width="640" height="360"  title="Центральные земли">
+
 
 ![Аранары](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Эмилия%20Снимок%20экрана%20(53718).png "Центральные земли")
 
