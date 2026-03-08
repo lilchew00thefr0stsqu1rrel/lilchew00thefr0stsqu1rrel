@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![Камерунская крыса](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png  "У Луми агбе, у Линнеи галаговые уши")
 
 
-<img src="[(https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png] width="500" height="300" alt="Галажка">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png" width="500" height="300" alt="Альтернативный текст">
 
 
 Я ещё заметил некоторый африканско-скандинавский фьюжн: у Луми агбе, у Линнеи галаговые уши. У неё буквально вайб этого метящего территорию мочой и калом примата. Однако она не является формой просветлённых зверей Снежной. В Genshin Impact нет играбельных персонажей в виде обезьяно/лемуро/грызунолюдей. Просто мне нравится представлять, что она галаго. 
