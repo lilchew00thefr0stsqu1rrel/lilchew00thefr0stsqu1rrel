@@ -214,10 +214,6 @@ width="480" height="270" alt="Быть умным, но слабым - это н
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="480" height="270" alt="Математика не исключает бег, но это не футбол, а тор" style="margin-right: 40px; display: inline-block; border: 4px;"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="480" height="270" alt="Математика не исключает бег, но это не футбол, а тор" style="margin-right: 40px; display: inline-block; border: 4px;">
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углерод.png" width="480" height="270" alt="Математика не исключает бег, но это не футбол, а тор" style="margin-right: 40px; display: inline-block; border: none;">
-
-
 
 7 III 2026
 
