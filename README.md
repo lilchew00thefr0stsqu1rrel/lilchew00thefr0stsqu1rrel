@@ -167,10 +167,8 @@ width="560" height="315" alt="Быть умным, но слабым - это н
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
-<img src="(https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png"
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png"
 width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
-
-
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
