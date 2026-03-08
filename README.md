@@ -191,14 +191,10 @@ width="720" height="405" alt="Быть умным, но слабым - это н
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="720" height="405" alt=" ">
+
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="720" height="405" alt=" ">
+
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углерод.png" width="720" height="405" alt=" ">
-![Аллюры3](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/уголь.png
-"Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
-![Аллюры1](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углер.png
-"Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
-![Аллюры2](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углерод.png
-"Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 
 
 
