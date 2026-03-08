@@ -138,11 +138,9 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 ### 28 II 2026
 ### Внедрение MonoCache для оптимизации обновления такта (кадра)
 
-![без using](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Code%20C%23/Снимок%20экрана%20(53905).png          " до  ")
-
-![using](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53906).png          " using  ")
-
-![Run()   ](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53908).png        " после   ")
+<img alt="без using" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Code%20C%23/Снимок%20экрана%20(53905).png" width="640" height="360"  title="до">
+<img alt="using" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53906).png" width="640" height="360"  title="using">
+<img alt="Run() вместо Update()" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53908).png" width="640" height="360"  title="после">
 
 #### Кукусики? Кто это? Лепилемур!
 
