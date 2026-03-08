@@ -89,9 +89,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg" width="420" height="600" alt="Нск_Урубамба" title="Куклокоп">
 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg" 
-width = "600" height="800alt="Нск_Урубамба" title="Куклокоп"> 
-
 
 Фото из Новосибирского зоопарка.
 
@@ -167,14 +164,9 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезомер.png"
-width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
-
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
-
+width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png"
-width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
-
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
 ##### Быть умным, но слабым - это невозможно. Слабые - глупые тюбики, у которых через одно место утекают не только мышцы, но и головной мозг
 
