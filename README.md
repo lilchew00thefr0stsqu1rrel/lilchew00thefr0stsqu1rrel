@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![]("")
 
+<img src=" " width="560" height="315" alt=" ">
 -->
 
 
@@ -167,6 +168,9 @@ Here are some ideas to get you started:
 ![Математика2](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png "Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 
 
+<img src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/мезомер.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
 
 ![Математика1](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png
@@ -174,7 +178,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="500" height="300" alt="Альтернативный текст">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
 ##### Быть умным, но слабым - это невозможно. Слабые - глупые тюбики, у которых через одно место утекают не только мышцы, но и головной мозг
 
