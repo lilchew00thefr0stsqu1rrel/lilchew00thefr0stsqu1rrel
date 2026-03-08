@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![]("")
 
-<img src=" " width="720" height="405" alt=" ">
+<img src=" " width="720" height="405" alt=" " title=" ">
 
 -->
 
@@ -211,7 +211,10 @@ width="720" height="405" alt="Быть умным, но слабым - это н
 
 Замена модели лемура на ту, где проще сделать "виляние задом"
 
-![галоп](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Кентер%20лемура.gif 
-"Кентер-галоп лемура")
 
-![wiggle](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Когда%20в%20тверк%20и%20пацан%20может.gif "Имитация метки территории")
+
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Кентер%20лемура.gif" width="720" height="405" alt="галоп" title="Кентер-галоп лемура">
+
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Когда%20в%20тверк%20и%20пацан%20может.gif" width="720" height="405" alt="wiggle" title="Имитация метки территории">
+
+
