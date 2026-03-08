@@ -135,7 +135,9 @@ Here are some ideas to get you started:
 ![Run()   ](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Code%20C%23/Снимок%20экрана%20(53908).png        " после   ")
 
 #### Кукусики? Кто это? Лепилемур!
-![Лепилемур](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png  "Фосфолипид между тем, кого воспитала улица, и всеми остальными" )
+
+
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png" width="720" height="405" alt="Лепилемур" title="Фосфолипид между тем, кого воспитала улица, и всеми остальными">
 
 Думал дать Линнелажке лук, но пусть галаго будет с Бесструнным (лучшая замена сигны галажки из 4-звёздочного оружия)
 
