@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![]("")
 
-<img src="" width="720" height="405" alt="" title="">
+<img src="" width="640" height="360" alt="" title="">
 
 -->
 
@@ -112,10 +112,12 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 
 Я сделал (за ~1 час) прототип меша, поддерживающего движение тазом (до этого я несколько изменил стандартный меш кошки. Почему кошки? Потому что тряска задом у котов имеет особый статус - они так метят территорию. Это же наблюдается и у выдр), чтобы на его основе сделать меши зверей, которые тверкают, пока какают (выдра, соболь, галаго, лемур и т. д.)
 
-![Jennifer Lopez beast1](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png "Прототип куклы имени Шакиры")
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png width="640" height="360" alt="Jennifer Lopez beast1" title=""Прототип куклы имени Шакиры" ">
 
 
-![Jennifer Lopez beast2](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png "Вид сверху")
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png" width="640" height="360" alt="Jennifer Lopez beast2" title="Вид сверху">
+
+
 
 ### 27 II 2026
 ### Бывшая амрита и азотит
@@ -143,7 +145,7 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 #### Кукусики? Кто это? Лепилемур!
 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png" width="800" height="450" alt="Лепилемур" title="Фосфолипид между тем, кого воспитала улица, и всеми остальными">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(53777)%20лепилемур.png" width="640" height="360" alt="Лепилемур" title="Фосфолипид между тем, кого воспитала улица, и всеми остальными">
 
 Думал дать Линнелажке лук, но пусть галаго будет с Бесструнным (лучшая замена сигны галажки из 4-звёздочного оружия)
 
