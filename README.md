@@ -115,7 +115,7 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png" width="640" height="360" 
 alt="Jennifer Lopez beast1" title="Прототип куклы имени Шакиры">
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png" width="0.5" height="0.5"  alt="Jennifer Lopez beast2" title="Вид сверху">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png" width="50%" height="50%"  alt="Jennifer Lopez beast2" title="Вид сверху">
 
 
 
