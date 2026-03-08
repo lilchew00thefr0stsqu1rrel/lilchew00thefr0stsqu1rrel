@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 
 
 #### Анонс галарвя 
-![Камерунская крыса](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png  "У Луми агбе, у Линнеи галаговые уши")
+
+<img src="" width="720" height="405" alt="Камерунская крыса]" title="У Луми агбе, у Линнеи галаговые уши">
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png" width="500" height="300" alt="Альтернативный текст">
@@ -86,7 +87,8 @@ Here are some ideas to get you started:
  
  Я придумал себе тульпу мармозетки Гёльди на основе певца DanRi (кыргыза). Данный персонаж является животной версией Хэйдзо или Ванпанчменом мира Цифры. 
 
- ![Нск_Урубамба](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg "Куклокоп")
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Urubamba/апуримак.jpg" width="720" height="405" alt="Нск_Урубамба" title="Куклокоп">
+
 
 Фото из Новосибирского зоопарка.
 
@@ -94,10 +96,10 @@ Here are some ideas to get you started:
 
   ### Выдра
 
-  
 
-![выдра](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Выдра%20плавает.gif 
-"Пюси выдра")
+  
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Выдра%20плавает.gif" width="720" height="405" alt="выдра" title="Пюси выдра")>
+
 
 
 
