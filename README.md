@@ -194,10 +194,7 @@ width="640" height="360" alt="Быть умным, но слабым - это н
 
 *Удалены с площадок, но даровали квантовую эмпатию следующим исполнителям (работает только, если они посещали Яндекс Музыку, бафф длится 72 часа): Баста, Ramil', O.T, Васса Железнова, Экспедиция Восход, SEEMEE, ICEGERGERT).
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="640" height="360" alt=" ">
-
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="640" height="360" alt=" ">
-
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="560" height="315" alt=" "><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="560" height="315" alt=" ">
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углерод.png" width="640" height="360" alt=" ">
 
 
