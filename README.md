@@ -131,10 +131,8 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 
 <img alt="галажка в бассейне" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53135)_Бассейн.png" width="640" height="360"  title="галаго">
 
-![галажка в бассейне](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53135)_Бассейн.png "галаго")
+<img alt="выдра в бассейне" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53150)_Бассейн.png" width="640" height="360"  title="Выдре нельзя ванну">
 
-
-![выдра в бассейне](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Снимок%20экрана%20(53150)_Бассейн.png "Выдре нельзя ванну")
 
 
 ### 28 II 2026
