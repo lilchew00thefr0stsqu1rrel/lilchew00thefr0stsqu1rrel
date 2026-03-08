@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ![]("")
 
 <img src=" " width="560" height="315" alt=" ">
+
+<img src=" " width="400" height="225" alt=" ">
+
 -->
 
 
@@ -163,14 +166,14 @@ Here are some ideas to get you started:
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезомер.png"
-width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+width="400" height="225" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="400" height="225" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png"
-width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+width="400" height="225" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="560" height="315" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="400" height="225" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
 ##### Быть умным, но слабым - это невозможно. Слабые - глупые тюбики, у которых через одно место утекают не только мышцы, но и головной мозг
 
@@ -188,6 +191,9 @@ width="560" height="315" alt="Быть умным, но слабым - это н
 
 ##### Завеивание - это определение явлений, привязанных ко мне, а не к ситуации.
 
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="400" height="225" alt=" ">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="400" height="225" alt=" ">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углерод.png" width="400" height="225" alt=" ">
 ![Аллюры3](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/уголь.png
 "Быть умным, но слабым - это невозможно. Слабые - глупые тюбики")
 ![Аллюры1](https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/images/Genshin%20Impact%20001/углер.png
