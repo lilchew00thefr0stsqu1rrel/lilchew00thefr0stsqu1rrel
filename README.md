@@ -164,9 +164,9 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезомер.png"
-width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png"
-width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="640" height="360" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
+width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики">
 
 ##### Быть умным, но слабым - это невозможно. Слабые - глупые тюбики, у которых через одно место утекают не только мышцы, но и головной мозг
 
@@ -194,8 +194,8 @@ width="640" height="360" alt="Быть умным, но слабым - это н
 
 *Удалены с площадок, но даровали квантовую эмпатию следующим исполнителям (работает только, если они посещали Яндекс Музыку, бафф длится 72 часа): Баста, Ramil', O.T, Васса Железнова, Экспедиция Восход, SEEMEE, ICEGERGERT).
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="560" height="315" alt=" "><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="560" height="315" alt=" ">
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углерод.png" width="640" height="360" alt=" ">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/уголь.png" width="480" height="270" alt="Математика не исключает бег, но это не футбол, а тор"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углер.png" width="480" height="270" alt="Математика не исключает бег, но это не футбол, а тор">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/углерод.png" width="480" height="270" alt="Математика не исключает бег, но это не футбол, а тор">
 
 
 
