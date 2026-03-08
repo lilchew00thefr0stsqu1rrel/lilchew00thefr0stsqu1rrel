@@ -164,7 +164,7 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезомер.png"
-width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики" style="padding-right: 20px; display: block; border: none;"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики" style="padding-right: 20px; display: block; border: none;">
+width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики" style="padding-right: 50px; display: block; border: none;"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/мезамер.png" width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики" style="padding-right: 50px; display: block; border: none;">
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/межемир.png"
 width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики" style="padding-right: 20px; display: block; border: none;"><img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/математика.png" width="480" height="270" alt="Быть умным, но слабым - это невозможно. Слабые - глупые тюбики" style="padding-right: 20px; display: block; border: none;">
 
