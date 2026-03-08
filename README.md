@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 #### Анонс галарвя 
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png" width="720" height="405" alt="Камерунская крыса" title="У Луми агбе, у Линнеи галаговые уши">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(54941)Галажка.png" width="880" height="495" alt="Камерунская крыса" title="У Луми агбе, у Линнеи галаговые уши">
 
 
 
