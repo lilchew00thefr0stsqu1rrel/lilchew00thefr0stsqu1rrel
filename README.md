@@ -112,7 +112,8 @@ width = "600" height="800alt="Нск_Урубамба" title="Куклокоп">
 
 Я сделал (за ~1 час) прототип меша, поддерживающего движение тазом (до этого я несколько изменил стандартный меш кошки. Почему кошки? Потому что тряска задом у котов имеет особый статус - они так метят территорию. Это же наблюдается и у выдр), чтобы на его основе сделать меши зверей, которые тверкают, пока какают (выдра, соболь, галаго, лемур и т. д.)
 
-<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png  alt="Jennifer Lopez beast1" title=""Прототип куклы имени Шакиры" ">
+<img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Твер.png" 
+alt="Jennifer Lopez beast1" title=""Прототип куклы имени Шакиры" ">
 
 
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Model_.png"  alt="Jennifer Lopez beast2" title="Вид сверху">
