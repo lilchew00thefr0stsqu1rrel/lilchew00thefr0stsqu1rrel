@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 В мире Genshin Impact ангелы сотканы из азотита - энергии Ирминсуля. И не только они, но и просветлённые звери, ёкаи, альвы…
 
-<img alt="Фрукт" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(5660)_Чем_в_действительности_являются_Николь_и_Сянь_Юнь.png" width="640" height="360"  title="Чем в действительности являются Николь и Сянь Юнь">
+<img alt="Фрукт" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(5660)_Чем_в_действительности_являются_Николь_и_Сянь_Юнь.png" width="800" height="450"  title="Чем в действительности являются Николь и Сянь Юнь">
 
 
 # Портфолио
