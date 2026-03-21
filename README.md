@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   ![Скрэт](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Ботовило.png "Знак Скрэтличьих")
 * Трискелион символизирует самосознание, потому что самосознание не только "вечно", но и сконцентрировано в определённой точке. Эта точка - ориджин бытия и пивот моего тела. Я белка, скачущая галопом по ткани бытия (типа гусеница пяденицы, *bounding gait*).
 
+### Добавлено 21 III 2026
 * Я зову себя куклой и я
     * фыркаю носом, как лошадь
     * мурлычу
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 
 <img alt="Фрукт" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(5660)_Чем_в_действительности_являются_Николь_и_Сянь_Юнь.png" width="800" height="450"  title="Чем в действительности являются Николь и Сянь Юнь">
 
+### Конец Добавлено 21 III 2026
 
 # Портфолио
 * [О выдрах и лемурах (Gentianose Real Dolls)]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls ) 🦦 (Величайший шедевр из своих. Там Вам предстоит бегать и сражаться, управляя лемурами и выдрами, путешествовать по Куклии - стране на планете Цифра, защищая её от прихода интегральных людей)
