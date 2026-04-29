@@ -10,7 +10,7 @@ alt="Jennifer Lopez beast1" title="Прототип куклы имени Шак
 
 
 ### 27 II 2026
-### Бывшая амрита и азотит
+### Бывшая амрита и азотит (не азотит, а эфир - исправлено 29 IV 2026) 
 
 
 <img alt="Аранары" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Эмилия%20Снимок%20экрана%20(53718).png" width="640" height="360"  title="Центральные земли">
