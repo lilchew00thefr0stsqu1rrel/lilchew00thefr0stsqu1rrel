@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 * [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter) 🚀
 * [Музыкальный лейбл на 1С:Предприятие и ASP .NET](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
 
+# Интересное о себе
   
 ### Добавлено 21 III 2026
 #### Завеивание (икигаи, манифест)
