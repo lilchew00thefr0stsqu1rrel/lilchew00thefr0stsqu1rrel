@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 * [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense) 🌇
 * [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter) 🚀
 * [Музыкальный лейбл на 1С:Предприятие и ASP .NET](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
+* [Тема эксплуатационной практики: Образование на 1С:Предприятие](https://github.com/lilchew00thefr0stsqu1rrel/ExploitPractice1CUniversity) 📈
 
 # Интересное о себе
   
