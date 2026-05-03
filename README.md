@@ -34,6 +34,16 @@ Here are some ideas to get you started:
   ![Скрэт](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Ботовило.png "Знак Скрэтличьих")
 * Трискелион символизирует самосознание, потому что самосознание не только "вечно", но и сконцентрировано в определённой точке. Эта точка - ориджин бытия и пивот моего тела. Я белка, скачущая галопом по ткани бытия (типа гусеница пяденицы, *bounding gait*).
 
+
+# Портфолио
+* [О выдрах и лемурах (Gentianose Real Dolls)]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls ) 🦦 (Величайший шедевр из своих. Там Вам предстоит бегать и сражаться, управляя лемурами и выдрами, путешествовать по Куклии - стране на планете Цифра, защищая её от прихода интегральных людей)
+----
+* [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing) 🏎
+* [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense) 🌇
+* [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter) 🚀
+* [Музыкальный лейбл на 1С:Предприятие и ASP .NET](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
+
+  
 ### Добавлено 21 III 2026
 #### Завеивание (икигаи, манифест)
 * Я зову себя куклой и я
@@ -70,13 +80,7 @@ Here are some ideas to get you started:
 
 ### Конец Добавлено 21 III 2026
 
-# Портфолио
-* [О выдрах и лемурах (Gentianose Real Dolls)]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls ) 🦦 (Величайший шедевр из своих. Там Вам предстоит бегать и сражаться, управляя лемурами и выдрами, путешествовать по Куклии - стране на планете Цифра, защищая её от прихода интегральных людей)
-----
-* [Гонки](https://github.com/lilchew00thefr0stsqu1rrel/3D_Racing) 🏎
-* [Защита башнями](https://github.com/lilchew00thefr0stsqu1rrel/Tower_Defense) 🌇
-* [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter) 🚀
-* [Музыкальный лейбл на 1С:Предприятие и ASP .NET](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
+
 
 
 # Увлечения
