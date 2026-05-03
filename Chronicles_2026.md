@@ -143,13 +143,14 @@ width="480" height="270" alt="Быть умным, но слабым - это н
 <img src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Mustelids%26Primates/Когда%20в%20тверк%20и%20пацан%20может.gif" width="640" height="360" alt="wiggle" title="Имитация метки территории">
 
 
-8 III 2026
+#### 8 III 2026
 
-21 III 2026
 
 ### У Нёвиллета-выдры в пробном отряде Сахароза.
 
 <img alt="Нёвилл" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Genshin%20Impact%20001/Снимок%20экрана%20(52948)_Вся%20деменция.png" width="640" height="360"  title="Нёвиллет и Сахароза">
+
+#### 21 III 2026
 
 # Кого я рассматриваю как пример, что я не больной, а нейроотличный
 В мире Genshin Impact ангелы сотканы из ~азотита~ эфира - энергии Ирминсуля. И не только они, но и просветлённые звери, ёкаи, альвы…
