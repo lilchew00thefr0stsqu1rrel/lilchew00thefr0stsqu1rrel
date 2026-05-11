@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 # Интересное о себе
 
-<img alt="Трискел" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/Логотип_личного_бренда_лил_чиу.png" width="640" height="640"  title="Трискелион: кельтский субстрат в молдаванах сделал меня Началом Координат">
+<img alt="Трискел" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/Логотип_личного_бренда_лил_чиу.png" width="640" height="640"  title="Трискелион и томоэ: хотя Лил Чиву не кельт и не японец, его личным символом стала точка, из которой исходят 3, 6 или 7 спиралей. Потому что Лил Чиву - ориджин бытия">
   
   
 ### Добавлено 21 III 2026
