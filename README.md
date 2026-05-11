@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 * [Тема эксплуатационной практики: Образование на 1С:Предприятие](https://github.com/lilchew00thefr0stsqu1rrel/ExploitPractice1CUniversity) 📈
 
 # Интересное о себе
+
+<img alt="Трискел" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/Логотип_личного_бренда_лил_чиу.png" width="640" height="640"  title="Трискелион: кельтский субстрат в молдаванах сделал меня Началом Координат">
+  
   
 ### Добавлено 21 III 2026
 #### Завеивание (икигаи, манифест)
