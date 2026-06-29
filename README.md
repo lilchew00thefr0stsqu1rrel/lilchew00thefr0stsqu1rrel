@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - 🐿 Символизирующее животное: белка, потому что запасливость основана на взаимодействии
 
 
+<img alt="Мусик II" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/2-13%20кукла%20чёрная%20белка.png" width="640" height="360"  title="Мусик II">
+
 <img alt="Lil Chewoo" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/СИМВОЛЫ/зувэивание.png" width="640" height="540"  title="Lil Chewoo - кукла, Ведьмин шабаш">
 
   ![Скрэт](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Ботовило.png "Знак Скрэтличьих")
