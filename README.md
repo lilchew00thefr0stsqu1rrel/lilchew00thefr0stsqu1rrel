@@ -46,10 +46,7 @@ Here are some ideas to get you started:
 * [Космическая стрельба](https://github.com/lilchew00thefr0stsqu1rrel/SpaceShooter) 🚀
 * [Музыкальный лейбл на 1С:Предприятие и ASP .NET](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
 * [Тема эксплуатационной практики: Образование на 1С:Предприятие](https://github.com/lilchew00thefr0stsqu1rrel/ExploitPractice1CUniversity) 📈
-
 ----
-
-  
 <img alt="Lil Chewoo" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/СИМВОЛЫ/зувэивание.png" width="640" height="540"  title="Lil Chewoo - кукла, Ведьмин шабаш">
 
 Трискелион символизирует самосознание, потому что самосознание не только "вечно", но и сконцентрировано в определённой точке. Эта точка - ориджин бытия и пивот моего тела. Я белка, скачущая галопом по ткани бытия (типа гусеница пяденицы, *bounding gait*).
