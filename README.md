@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 * [Музыкальный лейбл на 1С:Предприятие и ASP .NET](https://github.com/lilchew00thefr0stsqu1rrel/Music_label_system) 📈
 * [Тема эксплуатационной практики: Образование на 1С:Предприятие](https://github.com/lilchew00thefr0stsqu1rrel/ExploitPractice1CUniversity) 📈
 
-
+~~~~
 
   
 <img alt="Lil Chewoo" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/СИМВОЛЫ/зувэивание.png" width="640" height="540"  title="Lil Chewoo - кукла, Ведьмин шабаш">
