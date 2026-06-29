@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 <img alt="Lil Chewoo" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/СИМВОЛЫ/зувэивание.png" width="640" height="540"  title="Lil Chewoo - кукла, Ведьмин шабаш">
 
-  ![Скрэт](https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/images/Ботовило.png "Знак Скрэтличьих")
 * Трискелион символизирует самосознание, потому что самосознание не только "вечно", но и сконцентрировано в определённой точке. Эта точка - ориджин бытия и пивот моего тела. Я белка, скачущая галопом по ткани бытия (типа гусеница пяденицы, *bounding gait*).
 
 
