@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 Хотя Лил Чиву не кельт и не японец, его личным символом стал знак, похожий на трискелион или томоэ. Точка, из которой исходят 3, 6 или 7 спиралей. Потому что Лил Чиву - ориджин бытия.
 
-<img alt="Трискел" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/Логотип_личного_бренда_лил_чиу.png" width="640" height="640"  title="Три спирали символизируют программирование, огород и музыку…">
+<img alt="Трискел" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/Логотип_личного_бренда_лил_чиу.png" width="320" height="320"  title="Три спирали символизируют программирование, огород и музыку…">
   
   
 ### Добавлено 21 III 2026
