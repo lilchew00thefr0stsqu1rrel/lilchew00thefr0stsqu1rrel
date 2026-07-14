@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 Трискелион символизирует самосознание, потому что самосознание не только "вечно", но и сконцентрировано в определённой точке. Эта точка - ориджин бытия и пивот моего тела. Я белка, скачущая галопом по ткани бытия (типа гусеница пяденицы, *bounding gait*).
 
+----
+
 Я белкодлак (точка О).
 
 <img alt="белкодлак" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/2-13%20кукла%20чёрная%20белка.png" width="400" height="300"  title="белкодлак">
