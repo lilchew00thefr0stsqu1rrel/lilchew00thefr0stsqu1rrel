@@ -43,9 +43,6 @@ Here are some ideas to get you started:
 <img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="256" height="256"  title="Унитазик">
 
 
-<img alt="белкодлак" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/2-13%20кукла%20чёрная%20белка.png" width="400" height="300"  title="белкодлак">
-
-
 # Портфолио
 * [О выдрах и лемурах (Gentianose Real Dolls)]( https://github.com/lilchew00thefr0stsqu1rrel/GentianoseRealDolls ) 🦦 (Величайший шедевр из своих. Там Вам предстоит бегать и сражаться, управляя лемурами и выдрами, путешествовать по Куклии - стране на планете Цифра, защищая её от прихода интегральных людей)
 ----
@@ -58,5 +55,10 @@ Here are some ideas to get you started:
 <img alt="Lil Chewoo" src="https://github.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/СИМВОЛЫ/зувэивание.png" width="640" height="540"  title="Lil Chewoo - кукла, Ведьмин шабаш">
 
 Трискелион символизирует самосознание, потому что самосознание не только "вечно", но и сконцентрировано в определённой точке. Эта точка - ориджин бытия и пивот моего тела. Я белка, скачущая галопом по ткани бытия (типа гусеница пяденицы, *bounding gait*).
+
+Я белкодлак (точка О).
+
+<img alt="белкодлак" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/2-13%20кукла%20чёрная%20белка.png" width="400" height="300"  title="белкодлак">
+
 
 
