@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     - Национальные знаки белок и выдр (Спрейнтнации): ⊻ ⊕ . Они символизируют мочеиспускание назад.
     - Национальный знак белок, выдр и лошад (Флеменации): ʘ (поцелуй).
 - Основатель музыкальной группы "Дискотека Унитазик"
-- <img alt="" src="" width="640" height="360"  title="">
 
 
 <img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="256" height="256"  title="Унитазик">
