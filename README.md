@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 - 🐿 Символизирующее животное: белка, потому что запасливость основана на взаимодействии
     - Национальные знаки белок и выдр (Спрейнтнации): ⊻ ⊕ . Они символизируют мочеиспускание назад.
     - Национальный знак белок, выдр и лошад (Флеменации): ʘ (поцелуй).
+- Основатель музыкальной группы "Дискотека Унитазик"
+- <img alt="" src="" width="640" height="360"  title="">
 
 
-<img alt="Мусик II" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/2-13%20кукла%20чёрная%20белка.png" width="640" height="480"  title="Мусик II">
+<img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/blob/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="256" height="256"  title="Унитазик">
 
 
 
