@@ -35,7 +35,6 @@ Here are some ideas to get you started:
     - Национальный знак белок, выдр и лошад (Флеменации): ʘ (поцелуй).
 - Основатель музыкальной группы "Дискотека Унитазик"
 
-
 <img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="256" height="256"  title="Унитазик">
 
 
