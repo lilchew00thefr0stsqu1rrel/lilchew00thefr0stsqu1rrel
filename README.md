@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     - Двурогий венец Вернама. Получает энергию, когда Кукла Белка-Чернохвостка фыркает, рычит, урчит-гукает, цокает и целует. Кукла Белка-Чернохвостка получил данный артефакт после эволюции в Звёздного Руслана.  
 - 🎵 Основатель музыкальной группы "Дискотека Унитазик". Её другой участник - Onmie.
 
-<img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="128" height="128"  title="Унитазик">
+<img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="64" height="64"  title="Унитазик">
 
 
 # Портфолио
