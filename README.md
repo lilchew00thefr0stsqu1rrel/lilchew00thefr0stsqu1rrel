@@ -63,5 +63,5 @@ Here are some ideas to get you started:
 <img alt="белкодлак" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/2-13%20кукла%20чёрная%20белка.png" width="400" height="300"  title="белкодлак">
 
 
-<img alt="мосири" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/кчб.png" width="640" height="360"  title="Мосик">
+<img alt="мосири" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/кчб.png" width="640" height="480"  title="Мосик">
 
