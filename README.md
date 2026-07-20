@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ----
 
-Я белкодлак (точка О).
+Кареглазая гематитовая белка (точка О).
 
 <img alt="мосири" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/кчб.png" width="640" height="480"  title="Мосик">
 
