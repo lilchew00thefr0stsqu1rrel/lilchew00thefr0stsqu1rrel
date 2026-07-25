@@ -37,10 +37,13 @@ Here are some ideas to get you started:
     - Классификация: Кукла Белка-Чернохвостка
 - 🛡️ Экипировка воображаемой версии себя:
     - Упряжь Вернама. Получает энергию, когда Кукла Белка-Чернохвостка скачет галопом, виляет попой, расставляет задние лапы.
-    - Двурогий венец Вернама. Получает энергию, когда Кукла Белка-Чернохвостка фыркает, рычит, урчит-гукает, цокает и целует. Кукла Белка-Чернохвостка получил данный артефакт после эволюции в Звёздного Руслана.  
+    - Двурогий венец Вернама. Получает энергию, когда Кукла Белка-Чернохвостка фыркает, рычит, урчит-гукает, цокает и целует. Кукла Белка-Чернохвостка получил данный артефакт после эволюции в Звёздного Руслана.
+ 
+<img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="128" height="128"  title="Унитазик">
+  
 - 🎵 Основатель музыкальной группы "Дискотека Унитазик". Её другой участник - Onmie.
 
-<img alt="Унитазик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/2-14%20Эмблема%20группы%20Дискотека%20Унитазик%20пиксельная.png" width="128" height="128"  title="Унитазик">
+<img alt="Мочевые дор" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/Галерея%20белки%20и%20кукол/2-18%20Бот%20оставляет%20мочу%20при%20п.jpg" width="256" height="256"  title="Мочевые дорожки - интерактивное поведение белки">
 
 
 # Портфолио
@@ -61,4 +64,6 @@ Here are some ideas to get you started:
 Кареглазая гематитовая белка (точка О).
 
 <img alt="мосири" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/кчб.png" width="640" height="480"  title="Мосик">
+
+<img alt="КЖД" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/Галерея%20белки%20и%20кукол/2-20%20РЖД.jpg" width="384" height="256"  title="Кукольная железная дорога">
 
