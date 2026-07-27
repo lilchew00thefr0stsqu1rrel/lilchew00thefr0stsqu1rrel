@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 - 🛡️ Экипировка воображаемой версии себя:
     - Упряжь и попона Вернама. Получает энергию, когда Кукла Белка-Чернохвостка скачет галопом, виляет попой, расставляет задние лапы.
     - Двурогий венец Вернама. Получает энергию, когда Кукла Белка-Чернохвостка фыркает, рычит, урчит-гукает, свистит горлом, цокает и целует. Кукла Белка-Чернохвостка получил данный артефакт после эволюции в Звёздного Руслана.
-
-<img alt="Мочевые дор" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/Галерея%20белки%20и%20кукол/2-18%20Бот%20оставляет%20мочу%20при%20п.jpg" width="256" height="256"  title="Мочевые дорожки - интерактивное поведение белки">
-
  
 - 🎵 Основатель музыкальной группы "Дискотека Унитазик". Её другой участник - Onmie.
   
@@ -70,4 +67,12 @@ Here are some ideas to get you started:
 <img alt="мосири" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/кчб.png" width="640" height="480"  title="Мосик">
 
 <img alt="КЖД" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/Галерея%20белки%20и%20кукол/2-20%20РЖД.jpg" width="384" height="256"  title="Кукольная железная дорога">
+
+
+<img alt="Мочевые дор" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/Галерея%20белки%20и%20кукол/2-18%20Бот%20оставляет%20мочу%20при%20п.jpg" width="256" height="256"  title="Мочевые дорожки - интерактивное поведение белки">
+
+
+
+<img alt="Белка-экспресс" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/СИМВОЛЫ/Галерея%20белки%20и%20кукол/2-21%20Эталонное%20изображение%20Мусика.png" title="Мочевые дорожки - интерактивное поведение белки">
+
 
