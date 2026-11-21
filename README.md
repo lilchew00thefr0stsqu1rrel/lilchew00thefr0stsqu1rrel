@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 -->
 
-
+<img alt="Белка Мусик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/лилиуо.jpg" width="640" height="360"  title="Белка Мусик">
 
 - 🌀 Настоящее имя: Зубков Руслан
 - 🔭 Я сейчас работаю над эксплуатационной практикой по 1С.
