@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <img alt="Белка Мусик" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/лилиуо.jpg" width="800" height="600"  title="Белка Мусик">
 
+<img alt="Атрибуты образа" src="https://raw.githubusercontent.com/lilchew00thefr0stsqu1rrel/lilchew00thefr0stsqu1rrel/refs/heads/main/Пула.jpg" width="800" height="600"  title="Атрибуты образа">
+
 - 🌀 Настоящее имя: Зубков Руслан
 - 🔭 Я сейчас работаю над эксплуатационной практикой по 1С.
 - 👯 Я хочу сотрудничать с Хойо. Моё любимое предприятие (я его рассматриваю как своё место работы и потенциальную колыбель компьютерной игры Gentianose Real Dolls) - Antifreeze Games. Оно в Челябинске, как и компания Смарт (семечки Джинн, Белочка). Garden Of Dreams - инфоцыгане, мошенники, шарлатаны.
